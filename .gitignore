@@ -1,6 +1,4 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
+
 local lpr = game.Players.LocalPlayer
 local camera = game:GetService("Workspace").CurrentCamera
 local worldToViewportPoint = camera.WorldToViewportPoint
